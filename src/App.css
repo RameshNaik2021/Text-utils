@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+.hero{
+  color: rgb(2, 61, 61);
+  background-color: black;
+}
+
